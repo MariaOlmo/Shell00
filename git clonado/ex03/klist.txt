@@ -1,0 +1,6 @@
+klist
+Credentials cache: API:6156
+        Principal: molmo-cu@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 24 20:22:11 2021  Nov 25 06:22:11 2021  krbtgt/42MADRID.COM@42MADRID.COM
